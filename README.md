@@ -1,3 +1,4 @@
 # hello-world
 Seems like another repository
-Hello, I wish to share my eternal wisdom with those seeking to fulfill their destiny.
+
+Hello, this is my repo. I'll keep it updated with recently acquired knowledge.
